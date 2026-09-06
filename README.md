@@ -1,1 +1,2 @@
-# 24-052_24-087_TugasCNN_PraktikumB
+# 240441100052_Tsabita Shafa Aurellia
+# 240441100087_Putri Eka Safira
